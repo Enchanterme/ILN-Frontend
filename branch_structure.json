@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/testnet-smoke-heading-patterns",
+    "main",
+    "origin",
+    "test/add-touch-target-size-assertions"
+  ],
+  "parent": {
+    "fix/testnet-smoke-heading-patterns": "main",
+    "main": null,
+    "origin": "main",
+    "test/add-touch-target-size-assertions": "main"
+  },
+  "order": [
+    "main",
+    "fix/testnet-smoke-heading-patterns",
+    "origin",
+    "test/add-touch-target-size-assertions"
+  ]
+}
